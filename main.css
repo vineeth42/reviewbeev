@@ -26,3 +26,30 @@
 #wavessvg {
     margin-top: 80px;
 }
+@media only screen and (max-width:600px) {
+    #mc-embedded-subscribe-form {
+        width: 80%;
+        margin: 0 auto;
+
+        padding: 0;
+        display: flexbox;
+        flex-direction: column;
+
+    }
+
+    #first-input,
+    #second-input {
+        margin-bottom: 24px;
+    }
+
+    #submit1,
+    #submit {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    body {
+        width: 98%;
+        margin: 0 auto;
+    }
+}
