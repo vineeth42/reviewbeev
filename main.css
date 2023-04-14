@@ -27,9 +27,11 @@
 #wavessvg {
     margin-top: 80px;
 }
+ #mc-embedded-subscribe-form{
+     width:100%;
 
 @media only screen and (max-width:768px) {
-    form#mc-embedded-subscribe-form {
+    #mc-embedded-subscribe-form {
         width: 80%;
         margin: 0 auto;
 
