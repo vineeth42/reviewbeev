@@ -11,12 +11,12 @@
     font-size: 36px;
 }
 
-/* #first-input {
-    max-width: 480px;
-    width: 100%;
-    min-width: 240px;
+#first-input {
+/*     max-width: 480px;
+    width: 100%; */
+    min-width: 220px;
 
-} */
+}
 
 /* #submit,
 #submit1 {
