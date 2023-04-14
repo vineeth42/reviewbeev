@@ -12,9 +12,10 @@
 }
 
 #first-input {
-/*     max-width: 480px;
+    /* max-width: 480px;
     width: 100%; */
     min-width: 220px;
+
 
 }
 
@@ -26,6 +27,7 @@
 #wavessvg {
     margin-top: 80px;
 }
+
 @media only screen and (max-width:600px) {
     #mc-embedded-subscribe-form {
         width: 80%;
