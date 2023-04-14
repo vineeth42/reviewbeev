@@ -28,7 +28,12 @@
     margin-top: 80px;
 }
  #mc-embedded-subscribe-form{
-     width:100%;
+     display:block;
+}
+ #first-input,
+    #second-input {
+        margin-bottom: 24px;
+    }
 
 @media only screen and (max-width:768px) {
     #mc-embedded-subscribe-form {
