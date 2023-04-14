@@ -1,0 +1,28 @@
+#collect,
+#grow,
+#online {
+    color: #FFD757
+}
+
+#feature1,
+#feature2,
+#feature3 {
+    color: #0040f0;
+    font-size: 36px;
+}
+
+/* #first-input {
+    max-width: 480px;
+    width: 100%;
+    min-width: 240px;
+
+} */
+
+/* #submit,
+#submit1 {
+    min-width: 80px;
+
+} */
+#wavessvg {
+    margin-top: 80px;
+}
